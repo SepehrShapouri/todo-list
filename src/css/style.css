@@ -247,3 +247,8 @@ color: #10b981;
   opacity: 1;
   transition: all 0.3s ease-in-out;
 }
+@media all and (max-width:600px){
+  .main{
+    width: 350px;
+  }
+}
